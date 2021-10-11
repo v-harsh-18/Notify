@@ -77,7 +77,7 @@ passport.use(new oauth({
         passReqToCallback: true,
 
     },
-    function(req, accessToken, refreshToken, profile, cb) {
+    function(req, accessToken, refreshToken, profile,  cb) {
 
         console.log(profile);
         currentid = profile.id;
