@@ -1,5 +1,7 @@
 # Notify
 
+Notify ia a web application for storing all your notes at a single place with an extra layer of protection. A user can add any note to the site and it can either be protected by a password which can be give by user or an auto generated password which will be sent to them via mail. All the passowrds stored in database are hashed and add another level of protection. Finally user can view his notes as well as delete them.
+
 ![Screenshot (101)](https://user-images.githubusercontent.com/79628243/136835577-fc5653e8-11ee-4c6f-832c-ab4bd60b1006.png)
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/79628243/136835617-3e281c42-d5ba-4b6d-8adf-581a7f95fa58.png)
