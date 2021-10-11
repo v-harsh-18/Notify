@@ -1,0 +1,41 @@
+{
+  "name": "notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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:x-oauth-basic@github.com/v-harsh-18/Notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-harsh-18/Notify/issues"
+  },
+  "homepage": "https://github.com/v-harsh-18/Notify#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "md5": "^2.3.0",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.10",
+    "mongoose-findorcreate": "^3.0.0",
+    "mongoose-type-url": "^2.1.0",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.6.5",
+    "nodemon": "^2.0.13",
+    "passport": "^0.5.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "session": "^0.1.0"
+  }
+}
